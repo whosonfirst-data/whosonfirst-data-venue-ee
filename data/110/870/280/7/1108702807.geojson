@@ -1,0 +1,61 @@
+{
+  "id": 1108702807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"26.731054,58.3820542,26.731054,58.3820542",
+    "geom:latitude":58.382054,
+    "geom:longitude":26.731054,
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Raatuse 20",
+    "sg:city":"Tartu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"51009",
+    "sg:tags":[
+        "java",
+        "development",
+        "tool"
+    ],
+    "sg:website":"http://www.zeroturnaround.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HEUmO1xZ3gQ9qRFJw87nx_58.382054_26.731054@1308163239"
+    },
+    "wof:country":"EE",
+    "wof:created":1474570882,
+    "wof:geomhash":"e6e231ad0a6cf2e6a8fdcae6eb2d9ade",
+    "wof:hierarchy":[],
+    "wof:id":1108702807,
+    "wof:lastmodified":1474570882,
+    "wof:name":"ZeroTurnaround",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "java",
+        "development",
+        "tool"
+    ]
+},
+  "bbox": [
+    26.731054,
+    58.3820542,
+    26.731054,
+    58.3820542
+],
+  "geometry": {"coordinates":[26.731054,58.3820542],"type":"Point"}
+}

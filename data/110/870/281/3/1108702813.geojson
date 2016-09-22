@@ -1,0 +1,61 @@
+{
+  "id": 1108702813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"26.7229199,58.3820245,26.7229199,58.3820245",
+    "geom:latitude":58.382024,
+    "geom:longitude":26.72292,
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kompanii 10",
+    "sg:city":"Tartu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"51007",
+    "sg:tags":[
+        "cms",
+        "content-management-system",
+        "web2"
+    ],
+    "sg:website":"http://www.zimplit.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oiB6lhz8lP3CP05r6KscB_58.382024_26.722920@1308163240"
+    },
+    "wof:country":"EE",
+    "wof:created":1474570884,
+    "wof:geomhash":"749b8c85e12a284ebe9ff27532355bf6",
+    "wof:hierarchy":[],
+    "wof:id":1108702813,
+    "wof:lastmodified":1474570884,
+    "wof:name":"Krabi ja Mask",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cms",
+        "content-management-system",
+        "web2"
+    ]
+},
+  "bbox": [
+    26.7229199,
+    58.3820245,
+    26.7229199,
+    58.3820245
+],
+  "geometry": {"coordinates":[26.7229199,58.3820245],"type":"Point"}
+}

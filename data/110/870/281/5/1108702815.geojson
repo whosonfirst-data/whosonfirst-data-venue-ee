@@ -1,0 +1,63 @@
+{
+  "id": 1108702815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"26.7212208,58.3754107,26.7212208,58.3754107",
+    "geom:latitude":58.375411,
+    "geom:longitude":26.721221,
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00dclikooli 6A",
+    "sg:city":"Tartu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"51003",
+    "sg:tags":[
+        "billing",
+        "virtual-goods",
+        "sms-gateway",
+        "sms"
+    ],
+    "sg:website":"http://fortumo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OHLCIpBh0NV4XH0r25oze_58.375411_26.721221@1308163240"
+    },
+    "wof:country":"EE",
+    "wof:created":1474570884,
+    "wof:geomhash":"2e401a4d4e4bcd9b0a3d7c38176c1a0a",
+    "wof:hierarchy":[],
+    "wof:id":1108702815,
+    "wof:lastmodified":1474570884,
+    "wof:name":"Fortumo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing",
+        "virtual-goods",
+        "sms-gateway",
+        "sms"
+    ]
+},
+  "bbox": [
+    26.7212208,
+    58.3754107,
+    26.7212208,
+    58.3754107
+],
+  "geometry": {"coordinates":[26.7212208,58.3754107],"type":"Point"}
+}

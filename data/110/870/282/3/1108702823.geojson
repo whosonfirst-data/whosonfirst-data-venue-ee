@@ -1,0 +1,82 @@
+{
+  "id": 1108702823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.658767,59.397629,24.658767,59.397629",
+    "geom:latitude":59.397629,
+    "geom:longitude":24.658767,
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akadeemia tee 19",
+    "sg:city":"Tallinn",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"12618",
+    "sg:tags":[
+        "video-calling",
+        "television",
+        "videophone",
+        "tv",
+        "consumer-electronics",
+        "set-top-box"
+    ],
+    "sg:website":"http://www.inkspin1.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85901457,
+        102191581,
+        85633135,
+        101748153,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FYb5bgAaawMlEwPHLsZEZ_59.397629_24.658767@1308163238"
+    },
+    "wof:country":"EE",
+    "wof:created":1474570885,
+    "wof:geomhash":"cd54703f0434bb39801df0ef5d8494c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":101748153,
+            "neighbourhood_id":85901457,
+            "region_id":85683055,
+            "venue_id":1108702823
+        }
+    ],
+    "wof:id":1108702823,
+    "wof:lastmodified":1474570885,
+    "wof:name":"Inkspin1",
+    "wof:parent_id":85901457,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video-calling",
+        "television",
+        "videophone",
+        "tv",
+        "consumer-electronics",
+        "set-top-box"
+    ]
+},
+  "bbox": [
+    24.658767,
+    59.397629,
+    24.658767,
+    59.397629
+],
+  "geometry": {"coordinates":[24.658767,59.397629],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1108702805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"24.7441685,59.4378717,24.7441685,59.4378717",
+    "geom:latitude":59.437872,
+    "geom:longitude":24.744169,
+    "iso:country":"EE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pikk 7",
+    "sg:city":"Tallinn",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"10123",
+    "sg:tags":[
+        "web-software",
+        "cms",
+        "saas",
+        "content-management"
+    ],
+    "sg:website":"http://www.saurus.info",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85901459,
+        102191581,
+        85633135,
+        101748153,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wQOZn9pD9HgDxXKRhwAci_59.437872_24.744169@1308163239"
+    },
+    "wof:country":"EE",
+    "wof:created":1474570882,
+    "wof:geomhash":"f448d9a9825df24705ec52786244b65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":101748153,
+            "neighbourhood_id":85901459,
+            "region_id":85683055,
+            "venue_id":1108702805
+        }
+    ],
+    "wof:id":1108702805,
+    "wof:lastmodified":1474570882,
+    "wof:name":"Saurus",
+    "wof:parent_id":85901459,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ee",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-software",
+        "cms",
+        "saas",
+        "content-management"
+    ]
+},
+  "bbox": [
+    24.7441685,
+    59.4378717,
+    24.7441685,
+    59.4378717
+],
+  "geometry": {"coordinates":[24.7441685,59.4378717],"type":"Point"}
+}
